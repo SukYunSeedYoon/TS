@@ -1,0 +1,27 @@
+{
+  "name": "TS",
+  "version": "1.0.0",
+  "description": "seedyoon",
+  "main": "index.js",
+  "dependencies": {
+    "install": "^0.11.0",
+    "tslint": "^5.10.0",
+    "typescript": "^2.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "transpile": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SukYunSeedYoon/TS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SukYunSeedYoon/TS/issues"
+  },
+  "homepage": "https://github.com/SukYunSeedYoon/TS#readme"
+}
